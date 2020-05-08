@@ -8,4 +8,5 @@ _______
  
 First one for Circular Image View , Second one for CardView .
 
-*dependencies code in MainActivity.XML file placed as Comment line* 
+1. implementation 'de.hdodenhof:circleimageview:3.1.0'
+2. implementation 'androidx.cardview:cardview:1.0.0'
